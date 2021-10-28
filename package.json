@@ -1,0 +1,14 @@
+{
+  "name": "full-stack-exercise",
+  "version": "1.0.0",
+  "description": "Full stack JS interview exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Digital Infuzion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
